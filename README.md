@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Dericofredy
+
+- 👋 Hi, I’m @Frederico Caldeira da Silva
 - 👀 I’m interested in HTML,CSS, JAVASCRIPT
 - 🌱 I’m currently learning  CS50 and OTHERS
 - 💞️ I’m looking to collaborate on OFF
